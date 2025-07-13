@@ -1,5 +1,3 @@
-# Tkinter-Calculator-App
-A simple and clean calculator app built using Python's Tkinter GUI with full basic functionality.
 # Tkinter Calculator App 🧮
 
 This is a simple yet fully functional calculator built using **Python** and **Tkinter GUI** framework.
